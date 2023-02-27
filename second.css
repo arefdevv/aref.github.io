@@ -153,8 +153,8 @@
         margin: 5px;
       }
       .gallery_btn{
-      top: 337%;
-      left: 72.5%;
+      top: 337%!important;
+      left: 72.5%!important;
       }
   
       .enquiry{
