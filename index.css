@@ -709,8 +709,8 @@ input:checked + .first.para_farsi{
       margin: 5px;
     }
     .gallery_btn{
-      top: 362.5%;
-      left: 73%;
+      top: 362.5%!important;
+      left: 73%!important;
     }
 
     .enquiry{
